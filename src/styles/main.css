@@ -1,0 +1,21 @@
+
+
+
+
+
+.container{
+    
+    display: flex;
+    
+}
+
+.menu{
+display: flex ;
+background-color: black;
+justify-content: space-between;
+align-items: center;
+height: 90px;
+width: 100%;
+}
+
+   
