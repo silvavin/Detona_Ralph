@@ -21,17 +21,13 @@ This repository hosts the "Detona Ralph" project.
 
 ## Technologies
 
-- Python
-- Pygame
-- [Include any additional technologies, languages, or frameworks]
+- JavaScript
+- HTML
+- CSS
 
 ## Contributing
 
 Contributions are encouraged! Please open an issue or submit a pull request to contribute.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## License
 
